@@ -8,5 +8,5 @@ repo to document all the stupid shit i did during the June-July 2025 holidays ov
 
 | when       | what |
 |------------|------------|
-| 2025-06-15 | - tcp server in C, why not - hello
+| 14 June | - tcp server in C
 ---
