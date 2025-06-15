@@ -1,12 +1,13 @@
 # 🧃 holiday junk
 
-repo to document all the stupid shit i did during the June-July 2025 holidays over an internship.
+repo to document all the stupid shit i did during the June-July 2025 holidays instead of an internship.
 
 ---
 
-## 📅 Daily Log
+## 📅 log
 
 | when       | what |
 |------------|------------|
-| 14 June | - tcp server in C <br> - another thing i did
+| 14 June | - tcp server in C
+| 15 June | - 
 ---
