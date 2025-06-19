@@ -9,5 +9,5 @@ repo to document all the stupid shit i did during the June-July 2025 holidays in
 | when       | what |
 |------------|------------|
 | 14 June | - tcp server in C
-| 19 June | - started attempting the cses problem set. [repo](https://github.com/bhushanwho/cses)
+| 19 June | - started attempting the [cses](https://cses.fi/problemset/list/) problem set. [repo](https://github.com/bhushanwho/cses)
 ---
